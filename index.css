@@ -1,0 +1,61 @@
+.title  {
+    color: red;
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
+
+.subtitle {
+    color: red;
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    color: cornsilk;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    margin-right: 150px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+ 
+.intro {
+    margin-bottom: 80px;
+}
+
+.more {
+    background-image: url(https://www.masaimarasafari.in/wp-content/uploads/2023/02/68-scaled.jpg.webp);
+}
+
+.footer {
+    text-align: center;
+    color: gold;
+    font-size: larger;
+    margin-top: 80px;
+}
+
+.author {
+    color: gold;
+    margin: 80px;
+    font-size: larger;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.info {
+    color: burlywood;
+    margin: 50px;
+    margin-top: -50px;
+    font-size: large;
+    text-align: center;
+}
+
+ul {
+    color: burlywood;
+    font-size: large;
+    margin-top: -40px;
+    text-align: center;
+}
+
